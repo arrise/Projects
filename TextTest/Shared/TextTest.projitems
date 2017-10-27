@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <MSBuildAllProjects>$(MSBuildAllProjects);$(MSBuildThisFileFullPath)</MSBuildAllProjects>
+    <HasSharedItems>true</HasSharedItems>
+    <SharedGUID>{C59FE5D8-C34A-412A-AF5F-DAAA02CB2274}</SharedGUID>
+  </PropertyGroup>
+  <PropertyGroup Label="Configuration">
+    <Import_RootNamespace>TextTest</Import_RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <BundleResource Include="$(MSBuildThisFileDirectory)Resources\GameScene.sks" />
+    <BundleResource Include="$(MSBuildThisFileDirectory)Resources\Spaceship.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="$(MSBuildThisFileDirectory)GameViewController.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)GameViewController.designer.cs">
+      <DependentUpon>GameViewController.cs</DependentUpon>
+    </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)GameScene.cs" />
+  </ItemGroup>
+</Project>

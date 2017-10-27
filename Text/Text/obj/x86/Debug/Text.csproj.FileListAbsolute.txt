@@ -1,0 +1,5 @@
+/Users/codysmith/Projects/Text/Text/bin/Debug/Text.exe
+/Users/codysmith/Projects/Text/Text/bin/Debug/Text.pdb
+/Users/codysmith/Projects/Text/Text/obj/x86/Debug/Text.csproj.CoreCompileInputs.cache
+/Users/codysmith/Projects/Text/Text/obj/x86/Debug/Text.exe
+/Users/codysmith/Projects/Text/Text/obj/x86/Debug/Text.pdb

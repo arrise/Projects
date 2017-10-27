@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{76DABE50-0EFB-41D8-908C-BB22CE2B6B6D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Shared/GameScene.cs">
+    <Files>
+      <File FileName="Shared/GameViewController.cs" Line="1" Column="1" />
+      <File FileName="Shared/GameScene.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.ItemProperties.TextTest.IOS>
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.TextTest.IOS>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.TextTest.Mac PreferredExecutionTarget="Test1" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
